@@ -4,7 +4,7 @@ study artwork "iroha_01" / bevy 0.16
 
 ## Interactive Demo
 
-https://funatsufumiya.github.io/iroha_01/
+https://ffunatsu.github.io/iroha_01/
 
 (Wait patiently for the first time.)
 
